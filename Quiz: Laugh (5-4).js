@@ -14,12 +14,12 @@
 var laugh = function(num) {
   var laughter = "";
   for (i = 0; i < num; i++) {
-    laughter += "ha"
+    laughter += "ha";
   }
   
-  laughter += '!'
+  laughter += '!';
   
-  return laughter
+  return laughter;
 }
 
 console.log(laugh(10));
