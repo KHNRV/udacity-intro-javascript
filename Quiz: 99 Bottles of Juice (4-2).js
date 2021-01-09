@@ -31,5 +31,5 @@ while (num >= 1) {
       console.log(num + ' bottle of juice on the wall! ' + num + ' bottle of juice! Take one down, pass it around... ' + (num - 1) + ' bottles of juice on the wall!');
     }
 
-    num -= 1
+    num -= 1;
 }

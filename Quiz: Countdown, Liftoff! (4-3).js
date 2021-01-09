@@ -43,5 +43,5 @@ while (countdown >= 0) {
       break;
   }
 
-  countdown -= 1
+  countdown -= 1;
 }

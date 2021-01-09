@@ -16,13 +16,13 @@
  */
 
  function laugh(num) {
-   var laugther = ""
+   var laugther = "";
    for (var i = num; i > 0; i--) {
-     laugther += 'ha'
+     laugther += 'ha';
    }
-   laugther += '!'
+   laugther += '!';
 
-   return laugther
+   return laugther;
  }
 
- console.log(laugh(3))
+ console.log(laugh(3));

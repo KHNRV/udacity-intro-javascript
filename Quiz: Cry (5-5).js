@@ -17,4 +17,4 @@ var cry = function makeCry() {
   return 'boohoo!'
 }
 
-console.log(cry())
+console.log(cry());

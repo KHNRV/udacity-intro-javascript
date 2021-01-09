@@ -20,12 +20,12 @@ while (x <= 20) {
     if ((x % 3 === 0) && (x % 5 === 0)) {
       console.log('JuliaJames');
     } else if (x % 5 === 0) {
-      console.log('James')
+      console.log('James');
     } else if (x % 3 === 0) {
-      console.log('Julia')
+      console.log('Julia');
     } else {
-      console.log(x)
+      console.log(x);
     }
     // increment x
-    x += 1
+    x += 1;
 }

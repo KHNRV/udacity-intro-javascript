@@ -23,7 +23,7 @@ if (musicians <= 0) {
 } else if (musicians === 4) {
   typeOfBand = "quartet";
 } else {
-  typeOfBand = "this is a large group"
+  typeOfBand = "this is a large group";
 }
 
 // print the type of band

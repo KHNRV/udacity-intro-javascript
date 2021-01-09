@@ -13,6 +13,6 @@
 
 // your code goes here
 function laugh() {
-  return 'hahahahahahahahahaha!'
+  return 'hahahahahahahahahaha!';
 }
 console.log(laugh());

@@ -32,14 +32,14 @@ function buildTriangle(height) {
   }
   
   // delclare the pyramid
-  var pyramid = ""
+  var pyramid = "";
   
   // loop that create pyramid
   for (var i = 1; i <= height; i++) {
-    pyramid += makeLine(i)
+    pyramid += makeLine(i);
   }
 
-  return pyramid
+  return pyramid;
 }
 
 // test your code by uncommenting the following line
